@@ -12,13 +12,10 @@
 <h2> ⬇️ Downloads</h2> 
 </center>
 
-Find the latest release of Optimizer on the [Releases](https://github.com/hellzerg/optimizer/releases) page.
 
 <center>
 <h2>🖼️ Screenshots</h2> 
 </center>
-
-View Optimizer in action through our [Screenshots](https://github.com/hellzerg/optimizer/blob/master/IMAGES.md) collection.
 
 <center>
 <h2> 🆘 How to Disable Defender in Windows 10 1903 and Later</h2> 
