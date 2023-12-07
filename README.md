@@ -1,7 +1,10 @@
 
 <center>
-<h2>ℹ️ Advanced Privacy and Security Configuration Utility</h2> 
+<h2>Nvidia Settings W10/11</h2>
 </center>
+ 
+This The settings [Screenshots]([https://github.com/hellzerg/optimizer/blob/master/IMAGES.md](https://github.com/Kokomario12/winmods/blob/main/imagefile.md)) collection.
+
 
 
 <center>
