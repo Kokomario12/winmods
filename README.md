@@ -3,7 +3,7 @@
 <h2>Nvidia Settings W10/11</h2>
 </center>
  
-This The settings [Screenshots]([https://github.com/Kokomario12/winmods/blob/main/imagefile.md]).
+This The settings [Screenshots] ([https://github.com/Kokomario12/winmods/blob/main/imagefile.md]).
 
 
 
